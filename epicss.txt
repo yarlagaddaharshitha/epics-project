@@ -1,0 +1,24 @@
+Velagapudi Ramakrishna Siddhartha Engineering CollegeDepartment of Information Technology
+Class: 3rdYear Section: B Year: 2020-2021
+Real- Time Face Mask Detector
+
+Motivation : 
+	In this new era where we are experiencing a pandemic and people all around the world are advised to wear masks, some people are not used to it and are avoiding to wear masks. The motivation behind this projects is that if we can take help of AI to detect people wearing or not wearing masks in public places, it would be helpful to increase our safety. If deployed correctly, the mask detector could potentially be used to help ensure our safety.
+
+Problem description: 
+	In the current times due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers, for educational institution and other enterprises to ensure safety. In our education domain student safety is primary concern in covid-19 situation while in academia, so there’s need a solution for contactless compliance registry of student presence in institutions.
+
+Workable Solution:
+	Face Mask detection model is built using the Deep Learning technique called as Convolutional Neural Networks (CNN). This CNN Model is built using the TensorFlow framework and the OpenCV library which is highly used for real-time applications. TensorFlow Framework offers  FaceNet: A Unified Embedding for Face Recognition and Clustering.
+
+Expected outcome:
+	A cross-platform application which works on the model which will get refined and reinforced with more data provided, and the model don’t have to optimized for different operating systems as its platform independent and only needed a platform client in front-end to gather facial data.
+
+Roll No	Name	Email ID	Phone Number
+188W1A12B4	Y. Keerthi	Keerthi21410@gmail.com	6302963920
+188W1A1277	J. Keerthi 	jamulakeerthisameera@gmail.com	6300924148
+188W1A12B5	Y. Harshitha	Harshi.yarli@gmail.com	7997892482
+198W5A1209	B. Pranathi	Pranathipriya776@gmail.com	8712321126
+
+										Dr.sunitha 
+[Faculty Guide]
